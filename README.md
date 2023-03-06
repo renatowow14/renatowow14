@@ -23,20 +23,22 @@
    <img align="center" height="30" width="40" alt="Bash"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"/>
    <img align="center" height="30" width="40" alt="Docker"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
    <img align="center" height="30" width="40" alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+   <img align="center" height="30" width="40" alt="Ansible" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ansible/ansible-original.svg"/>
+   <img align="center" height="30" width="40" alt="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-plain-wordmark.svg"/>
+   <img align="center" height="30" width="40" alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg"/>
+  <img align="center" height="30" width="40" alt="Vagrant" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vagrant/vagrant-original.svg"/>
+  <img align="center" height="30" width="40" alt="Apache" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/apache/apache-original.svg"/>
+  <img align="center" height="30" width="40" alt="Nginx" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nginx/nginx-original.svg"/>
+  <img align="center" height="30" width="40" alt="ArgoCD" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/argocd/argocd-original.svg"/>
+ <img align="center" height="30" width="40" alt="Debian" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg"/>
+<img align="center" height="30" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
+<img align="center" height="30" width="40" alt="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
+<img align="center" height="30" width="40" alt="RedHat" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-original.svg"/>
+<img align="center" height="30" width="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"/>
+<img align="center" height="30" width="40" alt="Gitlab" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"/>
+<img align="center" height="30" width="40" alt="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg"/>
+<img align="center" height="30" width="40" alt="Prometheus" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/prometheus/prometheus-original.svg"/>
    
-   <img align="center" height="30" width="40"  alt="Java"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-   <img align="center" height="30" width="40"  alt="Spring"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-    <img align="center" height="30" width="40"  alt="Jetbrains" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg"/>
-   <img align="center" height="30" width="40" alt="Arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/>
-  
-   <img align="center" height="30" width="40" alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"/>
-   <img align="center" height="30" width="40" alt="Dart"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"/>
-   
-   <img align="center" height="30" width="40" alt="Js"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center"  height="30" width="40" alt="Ts"    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-   <img align="center"  height="30" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-   <img align="center"  height="30" width="40" alt="HTML"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-   <img align="center"  height="30" width="40" alt="CSS"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
 </div>
 
  <div>  
