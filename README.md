@@ -43,7 +43,6 @@
 
  <div>  
   <h1>Mídias</h1>
-  <a href="https://www.youtube.com/channel/UCC4neCX4CDKtQU-Oa3d2HAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:renatogomessilverio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renato-gomes-silverio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <h1>Commits</h1>
