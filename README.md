@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=renatowow14" alt="renatowow14" /></p>
 
-### Olá meu nome e Renato Gomes Silvério 👋
+### Olá meu nome é Renato Gomes Silvério 👋
 
 - 🔭 Sou DevOps Engineer Pleno...
 - 🌱 Estou Constantemente estudando DevOps e Cloud...
