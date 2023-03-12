@@ -40,6 +40,8 @@
 <img align="center" height="30" width="40" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
 <img align="center" height="30" width="40" alt="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg"/>
 <img align="center" height="30" width="40" alt="Prometheus" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/prometheus/prometheus-original.svg"/>
+<img align="center" height="30" width="40" alt="Podman" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/podman/podman-original.svg"/>
+
 
    
 </div>
