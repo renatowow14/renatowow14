@@ -1,4 +1,5 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=renatowow14" alt="renatowow14" /></p> <a href="https://github.com/renatowow14/?tab=follow">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=renatowow14" alt="renatowow14" /></p>
+<a href="https://github.com/renatowow14/?tab=follow">
   <img src="https://img.shields.io/github/followers/renatowow14?label=Follow&style=social" style="height:20px"/>
 </a>
 
