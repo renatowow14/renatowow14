@@ -14,8 +14,9 @@
 
  <div>
   <a href="https://github.com/renatowow14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatowow14&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatowow14&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatowow14&theme=transparent"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renatowow14&theme=transparent"/>
+  </a>
 </div>
 
 
@@ -37,7 +38,7 @@
  <img align="center" height="35" width="50" alt="RedHat" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redhat/redhat-original.svg"/>
 <img align="center" height="35" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
 <img align="center" height="35" width="50" alt="Vscode" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
-<img align="center" height="35" width="50" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png?20170912170050"/>
+<img align="center" height="35" width="50" alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="center" height="35" width="50" alt="Gitlab" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg"/>
 <img align="center" height="35" width="50" alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
 <img align="center" height="35" width="50" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
